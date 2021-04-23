@@ -1,0 +1,7 @@
+
+{
+"name": "ADALPOOL",
+"description": "My pool description",
+"ticker": "ADAL",
+"homepage": "https://github.com/adalanka/poolMetaData.json.git"
+}
