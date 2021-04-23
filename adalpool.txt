@@ -1,7 +1,7 @@
 
 {
 "name": "ADALPOOL",
-"description": "My pool description",
+"description": "Protecting,Improving,preserving and maintain all Sri Lankan's Environment,Education,Equality.Economy and Culture.",
 "ticker": "ADAL",
 "homepage": "https://github.com/adalanka/poolMetaData.json.git"
 }
